@@ -1,1 +1,2 @@
 This is practice session for interview
+Only other branches edits can merge with masterand edits in master cannot reflect in other branches ,bcz master branch is main branch.
